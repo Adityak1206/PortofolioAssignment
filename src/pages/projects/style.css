@@ -1,0 +1,16 @@
+.projects {
+  height: 100%;
+}
+.Projects_align {
+  display: flex;
+}
+@media only screen and (max-width: 768px) {
+  .projects {
+    flex-direction: column;
+  }
+  .Projects_align {
+  display: flex;
+  flex-direction: column;
+}
+
+}

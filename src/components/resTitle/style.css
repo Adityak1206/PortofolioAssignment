@@ -1,0 +1,21 @@
+.resume_title {
+  display: block;
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  border: 2px solid #ffdd40;
+  margin-top: 10px;
+  background: none;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  padding: 5px;
+  padding-left: 10px;
+}
+
+.Title_res {
+  color: #ffdd40;
+  padding-bottom: 5px;
+  font-size: 20px;
+}
